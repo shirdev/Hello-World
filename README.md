@@ -1,5 +1,8 @@
 # Hello-World
 Studying how to use GitHub :)
-Hi World, I'm Shir. I like people, traveling and nature more than coding.
-Sorry if this offeneded someone.
+Hi World, I'm Shir. 
+
+
 Just wanted to introduce myself to you world :)
+
+Github is a great open source platform. Great to see changes and collaborate.
